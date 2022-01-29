@@ -15,6 +15,7 @@ Created some cool Android Apps
 	</a>
 </p>
 
+SDK Version 32
 
 ## Android Apps :
 S.no | App Name
